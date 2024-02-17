@@ -1,7 +1,18 @@
 # Hotel-Dashboard-With-SQL-and-Power-BI
 ## INTRODUCTION
-Data Analyst Portfolio Project #1 | Build a Database | Develop SQL | Create a Dashboard 
+In this project, I built a Database, developed, an SQL query, connected Power BI to the Database,
+visualized the data suitable for management decisions, summarized the findings
+
 ## PROBLEM STATEMENT
+To build a visual data story or dashboard using Power BI to present to stakeholders
+We sort to answer the following questions
+
+-- Is our hotel revenue growing by year?
+
+-- Should we increase our packing lot size?
+
+-- What trend can we see in the data?
+
 ## TOOLS
 * SQL Server | Data Analysis
 
