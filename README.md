@@ -43,4 +43,5 @@ In the initial data preparation stage I performed the following task:
 
 ## ANALYSIS AND VISUALIZATION
 ## CONCLUSION AND RECOMMENDATION
-![](Report_SD.png)
+Please Follow the link to interact with the report on Power BI Online Service
+<https://app.powerbi.com/links/CdVYQ4OpiI?ctid=42f54956-ca72-48cd-82ca-3f93df64a015&pbi_source=linkShare>
